@@ -5,4 +5,4 @@
 --- 
 ## Run app live
 ### Visit the link and chat with your friends
-https://mathildap.github.io/LETS-TALK/
+https://letstalk-mathildap.herokuapp.com/
